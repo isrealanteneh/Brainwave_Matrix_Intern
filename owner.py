@@ -34,8 +34,8 @@ class Owner():
 account_owners = []
 
 # initializing the Owner class
-account_owners.append(Owner(1692708020619256,2271," Israel"," Anteneh",2000.00))
-account_owners.append(Owner(2764590867554412,9140,"Bernabas", "Anteneh", 2500.00))
-account_owners.append(Owner(9112597031565441,5590,"Nathan","Anteneh", 1000.00))
-account_owners.append(Owner(2380567445678140,2064,"Shalom","Anteneh", 2300.00))
-account_owners.append(Owner(2340607940604023,4350,"Joshua", "Anteneh", 3000.00))
+account_owners.append(Owner(1692708020619256,2271," Israel"," Anteneh",20.00))
+account_owners.append(Owner(2764590867554412,9140,"Bernabas", "Anteneh", 25.00))
+account_owners.append(Owner(9112597031565441,5590,"Nathan","Anteneh", 10.00))
+account_owners.append(Owner(2380567445678140,2064,"Shalom","Anteneh", 30.00))
+account_owners.append(Owner(2340607940604023,4350,"Joshua", "Anteneh", 40.00))
